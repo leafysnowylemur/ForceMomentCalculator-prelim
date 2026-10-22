@@ -2,4 +2,5 @@
 /.venv
 for042_BIG.csv
 for042.csv
-/.png
+*.png
+/__pycache__
