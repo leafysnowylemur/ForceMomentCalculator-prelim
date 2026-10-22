@@ -1,0 +1,1 @@
+Preliminary VibeCoded rocket force and moment calculator
